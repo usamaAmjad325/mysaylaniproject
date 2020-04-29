@@ -1,0 +1,184 @@
+body{
+    width:100%;
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+}
+.sec-1{
+    width: 100%;
+    height: 8vh;
+    background-color:rgba(1, 100, 290, 0.9);
+    text-align: center;
+    
+}
+.img-icon{
+    width:1.6rem;
+    height: 1.6rem;
+    margin-top: 0.4rem;
+       background-color:rgba(1, 100, 290, 0.8);
+    padding: 0.2rem;
+    margin-right: 1rem;
+}
+.icon-text{
+    font-size: 0.77rem;
+    display: inline-block;
+    margin-top:0.70rem;
+    font-weight:400;
+  
+}
+.button{
+    background-color: #fff;
+   margin-top: 0.5rem;
+    margin-right: 0.2rem;
+    width: 4.5rem;
+    height: 1.6rem;
+    text-align: center;
+    background-color:#fff;
+    
+}
+.span-icon{
+    font-size: 0.55rem;
+    display: inline-block;
+    text-align: center;
+    margin-top:-122222222222rem;
+    font-weight:500;
+    letter-spacing: 0.02rem;
+  
+}
+sec-2{
+   width: 100%;
+    height: 12vh;
+}
+.navbar{
+    height: 5rem;
+    margin-top: -0.1rem;
+}
+.sec-3{
+   padding: 0px;
+    margin: 0px;
+     height: 85vh;
+}
+.carousel{
+    padding: 0px;
+
+    width: 100%;
+   padding-bottom: 10px;
+}
+h6{
+  padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: blue;
+    display: inline;
+    background-clip: content-box;
+    color:#fff;
+    margin-left: 2rem;
+    font-size: 15px;
+}
+.jumbo{
+    width: 100%;
+    height: 100vh;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.sec-4{
+    width: 100%;
+    height: 40vh;
+    background-color: blue;
+}
+.img-solo{
+    width: 3rem;
+    height: 3rem;
+    margin-top: 3rem;
+    
+}
+.head-solo{
+    font-weight: 400;
+    margin-left: -2rem;
+}
+.solo{
+     color: #fff;
+    width: 100%;
+}
+.solo-span{
+    font-size: 15px;
+    color: green;
+}
+.solo-p{
+    font-size: 13px;
+    
+    font-weight: 500;
+}
+.solo-prob{
+     margin-left: -4rem;
+}
+.solo-prob1{
+    margin-left: -2rem;
+}
+.card-img-top{
+    width:5rem;
+    height: 5rem;
+    margin-top: 1rem;
+    margin-left: 5rem;
+}
+.card-text{
+    margin-left: 3.2rem;
+    font-weight: 800;
+    color: dodgerblue;
+    font-size: 20px;
+}
+
+.cards{
+    background-color: whitesmoke;
+width: 100%;
+    padding-top: 3rem;
+    height: 100vh;
+}
+.sec-news{
+    width: 100%;
+    height: 140vh;
+    background-color: #fff;
+    padding-top: 4rem;
+    color: dodgerblue;
+    ;
+    
+}
+.news-div{
+    background-color: whitesmoke;
+    
+   margin-bottom: 1rem;
+    padding: 0.8rem;
+    background-clip: padding-box;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-right :20px solid transparent;
+    
+   
+}
+.newimg{
+    padding-right: 0.8rem;
+}
+.news-div span{
+    font-weight: 800;
+    
+}
+.new-img{
+    width: 17rem;
+    height: 8rem;
+    border: 2px solid white;
+    
+}
+.secondary-footer{
+    width: 100%;
+    height: 52vh;
+    background-color: darkslategrey;
+    color:whitesmoke;
+}
+.footer-contacts{
+    font-size: 1rem;
+}
+.primary-footer{
+    background-color: dodgerblue;
+    width: 100%;
+    height: 8vh;
+    font-size: 0.8rem;
+}
